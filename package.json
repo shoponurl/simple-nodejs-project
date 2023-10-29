@@ -1,0 +1,15 @@
+{
+  "name": "shopon",
+  "main": "app.js",
+  "version": "1.0.0",
+  "description": "DEVOPS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "shopon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
